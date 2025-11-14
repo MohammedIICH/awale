@@ -215,3 +215,4 @@ void printBoard(int board[], Player p0, Player p1) {
         printf(" %2d ", board[i]);
     printf("| Score : %d\n\n", p0.score);
 }
+

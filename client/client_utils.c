@@ -96,3 +96,4 @@ int is_valid_score(int score)
 {
     return score >= 0;
 }
+
