@@ -75,6 +75,7 @@ Awale est un jeu de stratégie pour deux joueurs :
 - **Plateau** : 12 cases (6 par joueur) + 2 réserves
 - **Objectif** : Capturer plus de graines que l'adversaire
 - **Mécanique** : Les joueurs distribuent les graines en avançant sur le plateau
+- **Pour jouer un coup** : Il faut taper la commande MOVE <i>, avec i allant de 0 à 11 suivant le sens contraire au sens des aiguilles d'une montre.
 
 ## Structure des fichiers
 
