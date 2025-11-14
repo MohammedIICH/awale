@@ -52,15 +52,15 @@ make server
 1. **Démarrer le serveur** :
 ```bash
 # Lancer sur le port par défaut (4444)
-./server
+./bin/server
 
 # Ou spécifier un port personnalisé
-./server <port>
+./bin/server <port>
 ```
 
 2. **Lancer le client** :
 ```bash
-./client <host> <port>
+./bin/client <host> <port>
 ```
 
 3. **Arrêter les services** :
